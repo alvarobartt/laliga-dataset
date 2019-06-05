@@ -1,5 +1,7 @@
 # LaLiga 2018/19 Season Player Statistics provided by LaLiga
 
+![LaLiga Logo](http://lendersmagazine.com/wp-content/uploads/2016/09/laliga-is-creative-studio.jpg)
+
 ## Introduction
 
 As [LaLiga](https://www.laliga.es/) does not have a public API, I have decided to develop a web scraper in order to retrieve information from LaLiga players and their performance through the past season (2018/19) so that any Data Scientist or Data Enthusiastic can handle it and abstract their own conclusions and research. 
