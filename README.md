@@ -1,6 +1,13 @@
 # LaLiga 2018/19 Season Player Statistics provided by LaLiga
 
-![LaLiga Logo](http://lendersmagazine.com/wp-content/uploads/2016/09/laliga-is-creative-studio.jpg)
+![LaLiga Logo](https://i.pinimg.com/originals/94/65/06/946506cc3f1012cbcb3a616ad71ce084.png)
+
+## TODO
+
+- Re-structure the repository so as to separete the previous season stats and dataset and the current season dataset
+- Create a new Python notebook so as to retrieve the LaLiga 2019/2020 Season Advanced player stats which can be found at: https://www.laliga.com/estadisticas-avanzadas
+- Once generated, upload the dataset to Kaggle
+- Also, if applicable, test: https://github.com/alvarobartt/datable usage
 
 ## Introduction
 
